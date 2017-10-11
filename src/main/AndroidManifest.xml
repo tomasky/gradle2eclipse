@@ -17,7 +17,7 @@
             android:supportsRtl="true"
             android:theme="@android:style/Theme">
         <activity
-                android:name="com.baidu.fenfayun.demo.MainActivity"
+                android:name="com.baidu.fenfayun.demo.Main"
                 android:configChanges="orientation|navigation|screenSize|keyboard|keyboardHidden"
                 android:screenOrientation="portrait">
             <intent-filter>
